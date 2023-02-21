@@ -1,0 +1,4 @@
+[submodule "SubmoduleRepository2"]
+	path = SubmoduleRepository2
+	url = git@github.com:voki-kaidenko-v/SubmoduleRepository2.git
+	branch = git@github.com:voki-kaidenko-v/TrainingRepository.git
